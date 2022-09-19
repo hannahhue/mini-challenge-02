@@ -1,0 +1,19 @@
+/* universal */
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* header {
+    text-align: center;
+} */
+
+h1 {
+    font-size: 40px;
+    
+}
+
+header p {
+    font-size: 25px;
+    padding: 15px;
+    border: 15px, solid, black;
+}
